@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Boas vindas ao meu perfil 💙💙
  meu nome é kayqui
  estou estudando na alura 
  estou me desenvolvendo na liguagem javascript
