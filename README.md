@@ -3,7 +3,6 @@
  estou estudando na alura 
  estou me desenvolvendo na liguagem javascript
 
- ###voce entrar em contato comigo
+ ### voce entrar em contato comigo
 
-
- https://media.tenor.com/3Rno-1ZCxzQAAAAj/dragon-ball-budoten-fighter-z-idle-gif.gif
+![](https://media.tenor.com/3Rno-1ZCxzQAAAAj/dragon-ball-budoten-fighter-z-idle-gif.gif)
